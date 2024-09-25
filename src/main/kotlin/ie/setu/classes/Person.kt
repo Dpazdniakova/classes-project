@@ -1,6 +1,5 @@
 package ie.setu.classes
 
- class Person{
-
+data class Person (var firstName: String, var lastName : String) {
 
 }
